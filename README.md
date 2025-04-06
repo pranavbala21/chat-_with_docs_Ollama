@@ -1,4 +1,4 @@
-his project is a Retrieval-Augmented Generation (RAG) chatbot that allows users to upload documents and ask questions about them. It uses LangChain for document processing, FAISS for vector storage, and a local Mistral LLM running via Ollama.
+This project is a Retrieval-Augmented Generation (RAG) chatbot that allows users to upload documents and ask questions about them. It uses LangChain for document processing, FAISS for vector storage, and a local Mistral LLM running via Ollama.
 
 ---
 
